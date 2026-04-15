@@ -1,6 +1,6 @@
 //% color="#b5632e" icon="\uf108" weight=50
-//% block="Javascript Extras"
-namespace javaExtra {
+//% block="Breaking Makecode"
+namespace breaksMakecode {
     /**
      * An error happens with the panic code that inputted.
      */
